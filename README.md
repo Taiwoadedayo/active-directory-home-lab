@@ -1,4 +1,4 @@
-# Active Directory Home Lab: Domain Setup and Role-Based File Access
+# Active Directory Home Lab: Domain Setup and Role Based File Access
 
 A hands-on lab where I built a Windows domain from scratch to practise the tasks an IT service desk handles every day: user accounts, password resets, security groups and file permissions.
 
